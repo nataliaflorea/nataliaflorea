@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nataliaflorea
-- 👀 I’m interested in reskilling for a caree in information technology and cybersecurity
+- 👀 I’m interested in reskilling for a career in information technology and cybersecurity
 - 🌱 I’m currently learning Qualys EDR and VMDR
 
 
